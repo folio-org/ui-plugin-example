@@ -2,4 +2,4 @@
 // eslint-disable-next-line import/no-unresolved
 import React from 'react';
 
-export default props => <div>markdown editor here</div>;
+export default props => <div>Mike's Markdown editor goes here</div>;

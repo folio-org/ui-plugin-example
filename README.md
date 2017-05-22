@@ -11,4 +11,5 @@ This source module contains the code for several [Stripes](https://github.com/fo
 
 Each subdirectory provides its own Stripes plugin module:
 * [`plugin-markdown-editor`](plugin-markdown-editor)
+* [`plugin-markdown-better`](plugin-markdown-better)
 

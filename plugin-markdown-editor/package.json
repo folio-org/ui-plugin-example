@@ -2,7 +2,7 @@
   "name": "@folio/plugin-markdown-editor",
   "version": "0.1.0",
   "description": "Mike's Markdown editor plugin for Stripes",
-  "repository": "folio-org/ui-plugin-markdown-editor",
+  "repository": "folio-org/ui-plugin-example/tree/master/plugin-markdown-editor",
   "publishConfig": {
     "registry": "https://repository.folio.org/repository/npm-folio/"
   },
